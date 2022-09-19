@@ -1,2 +1,2 @@
 # Some-stupid-games
- Some java games idk why i did -.-
+ Some java games idk why i code them -.-
